@@ -1,2 +1,2 @@
 # Front-end
-just bunch of how to front-end
+Basic ReactJS to create Front-end
