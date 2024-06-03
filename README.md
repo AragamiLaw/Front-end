@@ -1,2 +1,2 @@
 # Front-end
-just basic JS
+Whattt, its TS
